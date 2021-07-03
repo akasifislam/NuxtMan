@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    <h1>lkgjkdfhjkdfbngjkdfgjkgbnjk</h1>
+  <div class="">
+    <h1>Nested User Page</h1>
   </div>
 </template>
 
