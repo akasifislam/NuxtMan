@@ -1,6 +1,7 @@
 <template>
-  <div class="container">
-    <h1>lkgjkdfhjkdfbngjkdfgjkgbnjkaaa</h1>
+  <div style="backgound:red">
+    <h1>This is users page</h1>
+    <nuxt-child/>
   </div>
 </template>
 
